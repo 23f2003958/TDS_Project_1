@@ -3,5 +3,6 @@
   "model": "DALL·E 3", 
   "dataset_name": "NOAA Ocean Noise Strategy (CetSound)",
   "dataset_url": "https://oceannoise.noaa.gov/",
-  "insight": "Anthropogenic shipping noise in the 20-300Hz range creates a 'physical' barrier of acoustic masking that can reduce the effective communication space of baleen whales by over 90%."
+  "insight": "Anthropogenic shipping noise in the 20-300Hz range creates a 'physical' barrier of acoustic masking that can reduce the effective communication space of baleen whales by over 90%.",
+  "publish_email": true
 }
