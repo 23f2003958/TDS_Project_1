@@ -1,8 +1,8 @@
 {
-  "prompt": "A high-concept, somber editorial photograph of a mother whale and her calf in the deep ocean. Instead of water, the space between them is filled with a dense, suffocating lattice of vibrating, rusted iron chains and jagged industrial gears that fade into a dark abyss. The whales are rendered in soft, ethereal detail, looking vulnerable against the sharp, heavy metal textures representing shipping noise. NO text, NO charts, NO legends. Cinematic lighting, deep indigo and rusted orange tones, 8k resolution, professional magazine cover aesthetic.",
+  "prompt": "A high-concept, haunting editorial photograph. A hyper-realistic close-up of a human heart, looking visibly pale, sick, and withered. It is centered against a dark, textured background of deep, desaturated teal and shadowed black, providing maximum dramatic contrast. From each of its severed main tubes and vessels—the aorta, pulmonary artery, and venae cavae—vibrant, multi-colored synthetic plastic ribbons (shreds of blue shopping bags, yellow synthetic twine, and green packaging film) are flowing out, fluttering slightly like invasive detritus. NO text, NO labels, NO charts. Focused, cold, clinical chiaroscuro lighting emphasizes the textures of both the muscle and the plastic. 8k resolution, professional magazine cover aesthetic.",
   "model": "DALL·E 3", 
-  "dataset_name": "NOAA Ocean Noise Strategy (CetSound)",
-  "dataset_url": "https://oceannoise.noaa.gov/",
-  "insight": "Anthropogenic shipping noise in the 20-300Hz range creates a 'physical' barrier of acoustic masking that can reduce the effective communication space of baleen whales by over 90%.",
+  "dataset_name": "Microplastics in Patients with Atherosclerosis (NEJM)",
+  "dataset_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2309822",
+  "insight": "Systemic microplastic contamination has moved beyond an environmental concern to a direct biological crisis, with synthetic industrial polymers now physically embedding themselves within critical human cardiovascular structures.",
   "publish_email": true
 }
