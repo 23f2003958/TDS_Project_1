@@ -1,8 +1,7 @@
 {
-  "prompt": "A haunting, high-concept editorial photograph of a vast, ancient stone library. Thousands of books line the walls, but the pages of the books are disintegrating into fine white sand that flows onto the floor like a silent hourglass. In the center, a single empty chair sits in a shafts of dusty sunlight. No text, no charts, no labels. Cinematic lighting, deep shadows, 8k resolution, professional magazine cover aesthetic.",
-  "model": "Perchance",
-  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
-  "dataset_url": "https://en.wal.unesco.org/",
-  "insight": "40% of the world's languages are endangered; their loss represents the silent disintegration of unique human knowledge systems.",
-  "publish_email": true
+  "prompt": "A high-concept, somber editorial photograph of a mother whale and her calf in the deep ocean. Instead of water, the space between them is filled with a dense, suffocating lattice of vibrating, rusted iron chains and jagged industrial gears that fade into a dark abyss. The whales are rendered in soft, ethereal detail, looking vulnerable against the sharp, heavy metal textures representing shipping noise. NO text, NO charts, NO legends. Cinematic lighting, deep indigo and rusted orange tones, 8k resolution, professional magazine cover aesthetic.",
+  "model": "DALL·E 3", 
+  "dataset_name": "NOAA Ocean Noise Strategy (CetSound)",
+  "dataset_url": "https://oceannoise.noaa.gov/",
+  "insight": "Anthropogenic shipping noise in the 20-300Hz range creates a 'physical' barrier of acoustic masking that can reduce the effective communication space of baleen whales by over 90%."
 }
