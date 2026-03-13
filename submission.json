@@ -1,0 +1,8 @@
+{
+  "prompt": "A haunting, high-concept editorial photograph of a vast, ancient stone library. Thousands of books line the walls, but the pages of the books are disintegrating into fine white sand that flows onto the floor like a silent hourglass. In the center, a single empty chair sits in a shafts of dusty sunlight. No text, no charts, no labels. Cinematic lighting, deep shadows, 8k resolution, professional magazine cover aesthetic.",
+  "model": "Perchance",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://en.wal.unesco.org/",
+  "insight": "40% of the world's languages are endangered; their loss represents the silent disintegration of unique human knowledge systems.",
+  "publish_email": true
+}
