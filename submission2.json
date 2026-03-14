@@ -1,0 +1,7 @@
+{
+  "prompt": "A professional, wide-angle cinematic editorial photograph. A lone hiker, wearing a detailed green and brown waterproof jacket and an opaque black blindfold, is positioned mid-slope on a treacherous, muddy mountain ridge shrouded in dense, charcoal-grey fog, as seen in image_13ae3e.jpg. They are in a low, crouching stance, hugging the slope, with one rugged boot extended forward, cautiously and deliberately 'feeling' the slippery mud to calculate the steepest downward gradient. The camera is significantly pulled back, revealing that this single, steep, muddy incline leads directly into a prominent local valley (a clear depression) which is immediately followed by a steep increase in slope—a massive, smooth-faced ridge that blocks any further descent. NO other peaks or valleys are visible. The scene is dominated by cold, high-contrast chiaroscuro lighting, emphasizing the slippery, dangerous textures of the mud and rock. NO text, NO labels, NO digital overlays. 8k resolution, National Geographic aesthetic.",
+  "model": "DALL·E 3", 
+  "concept": "gradient descent",
+  "metaphor": "The landscape maps to a loss function; the blindfolded hiker uses tactile feedback to calculate the local gradient and find the local optimum they cannot escape.",
+  "publish_email": true
+}
