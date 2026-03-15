@@ -1,0 +1,7 @@
+{
+  "prompt": "A conceptual diptych in two panels. Left Panel: A close-up side view of a lone climber wearing a red jacket, struggling upward on a steep, icy mountain slope. The slope leads toward a sharp, snow-covered peak in the distance. The climber is focused, with ice axes in hand, and the snowy mountain backdrop is clear, giving a sense of dramatic ascent. The image conveys a feeling of determination and challenge. Right Panel: The same side view, but now zoomed out to show a broader scene. The climber is still visible on the same slope, but it is now revealed that the sharp peak is behind him. He is actually climbing a small bump, and after the bump, the mountain slope begins to steeply descend. The vast mountain ridge stretches out with a massive, global descent, showing that the climber’s 'upward' path is a minor deviation on an overall downward slope. No text, no numbers. High contrast with clean lines, in a minimalist, conceptual art style. Cool tones of blues, whites, and grays.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "A diptych contrasting local vs. global perspective. The left panel shows a local 'upward' trend. The right zoom reveals this is a minor fluctuation on a dominant downward-sloping ridge, visually depicting a statistical trend reversal.",
+  "publish_email": true
+}
