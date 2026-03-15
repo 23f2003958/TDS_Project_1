@@ -1,0 +1,8 @@
+{
+  "prompt": "An authentic Ancient Egyptian tomb painting from the New Kingdom period, rendered on textured, weathered limestone. The scene depicts a 'Labyrinth of Infinite Directions.' A central scribe stands in a chamber where the walls consist of hundreds of small, identical door-gateways receding into a geometric infinity. Figures are isolated in distant doorways, separated by vast empty space. The style uses strictly flat profile views, a palette of iron-red, ochre-yellow, and Egyptian blue, with thick black outlines and registers. No 3D perspective shading. High-contrast, archaeological aesthetic.",
+  "model": "DALL-E 3",
+  "concept": "the curse of dimensionality",
+  "tradition_name": "Ancient Egyptian Wall Painting",
+  "tradition_period": "New Kingdom (1550–1070 BCE)",
+  "tradition_approach": "Applied the Egyptian 'Canon of Proportions' and flat profile perspective. The infinite gateways represent expanding feature space where data points become isolated outliers, visually depicting the sparsity and distance inherent in high-dimensional space."
+}
